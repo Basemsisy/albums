@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1252,
+  "expoServerNgrokUrl": "https://ag-mba.basemsisy.auth.exp.direct",
+  "packagerNgrokUrl": "https://packager.ag-mba.basemsisy.auth.exp.direct",
+  "ngrokPid": 8236,
+  "webpackServerPort": null
+}
